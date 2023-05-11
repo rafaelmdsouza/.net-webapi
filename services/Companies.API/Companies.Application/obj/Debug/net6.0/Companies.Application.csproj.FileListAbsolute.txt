@@ -1,0 +1,12 @@
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Application\bin\Debug\net6.0\Companies.Application.deps.json
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Application\bin\Debug\net6.0\Companies.Application.dll
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Application\bin\Debug\net6.0\Companies.Application.pdb
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Application\obj\Debug\net6.0\Companies.Application.csproj.AssemblyReference.cache
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Application\obj\Debug\net6.0\Companies.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Application\obj\Debug\net6.0\Companies.Application.AssemblyInfoInputs.cache
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Application\obj\Debug\net6.0\Companies.Application.AssemblyInfo.cs
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Application\obj\Debug\net6.0\Companies.Application.csproj.CoreCompileInputs.cache
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Application\obj\Debug\net6.0\Companies.Application.dll
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Application\obj\Debug\net6.0\refint\Companies.Application.dll
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Application\obj\Debug\net6.0\Companies.Application.pdb
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Application\obj\Debug\net6.0\ref\Companies.Application.dll

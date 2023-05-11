@@ -1,0 +1,12 @@
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Domain\bin\Debug\net6.0\Companies.Domain.deps.json
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Domain\bin\Debug\net6.0\Companies.Domain.dll
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Domain\bin\Debug\net6.0\Companies.Domain.pdb
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Domain\obj\Debug\net6.0\Companies.Domain.csproj.AssemblyReference.cache
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Domain\obj\Debug\net6.0\Companies.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Domain\obj\Debug\net6.0\Companies.Domain.AssemblyInfoInputs.cache
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Domain\obj\Debug\net6.0\Companies.Domain.AssemblyInfo.cs
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Domain\obj\Debug\net6.0\Companies.Domain.csproj.CoreCompileInputs.cache
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Domain\obj\Debug\net6.0\Companies.Domain.dll
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Domain\obj\Debug\net6.0\refint\Companies.Domain.dll
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Domain\obj\Debug\net6.0\Companies.Domain.pdb
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Domain\obj\Debug\net6.0\ref\Companies.Domain.dll
