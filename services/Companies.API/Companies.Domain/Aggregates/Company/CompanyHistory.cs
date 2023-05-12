@@ -12,15 +12,16 @@ namespace Companies.Domain.Aggregates.Company
         {
         }
 
-        public CompanyHistory(/*int companyId,*/ string createdBy, string message, string? reason)
+        public CompanyHistory(Guid companyId, string createdBy, string message, string? reason)
         {
-            //CompanyId = companyId;
+            CompanyId = companyId;
             CreatedBy = createdBy;
             Message = message;
             Reason = reason;
             CreatedOn = DateTime.UtcNow;
         }
-        //public int CompanyId { get; private set; } 
+        public Guid HistoryId { get; private set; }
+        public Guid CompanyId { get; private set; }
         public string CreatedBy { get; private set; }
         public string Message { get; private set; }
         public string? Reason { get; private set; }

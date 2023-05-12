@@ -10,3 +10,8 @@ D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Infra\obj\Debug
 D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Infra\obj\Debug\net6.0\refint\Companies.Infra.dll
 D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Infra\obj\Debug\net6.0\Companies.Infra.pdb
 D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Infra\obj\Debug\net6.0\ref\Companies.Infra.dll
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Infra\bin\Debug\net6.0\Companies.Infra.runtimeconfig.json
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Infra\bin\Debug\net6.0\Companies.Domain.dll
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Infra\bin\Debug\net6.0\Companies.Domain.pdb
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Infra\obj\Debug\net6.0\Companies.Infra.csproj.CopyComplete
+D:\RAFA\PROGRAMAÇÃO\COMPANIES\services\Companies.API\Companies.Infra\obj\Debug\net6.0\Companies.Infra.genruntimeconfig.cache
